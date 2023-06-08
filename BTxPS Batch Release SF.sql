@@ -53,4 +53,5 @@ WHERE
     and C1.NAME = 'PF-06741086' --marstacimab
     -- and L1.LOT_NAME = 'GT4721'
 LIMIT
-    1000;
+    900;
+    --check
